@@ -1,0 +1,2 @@
+This project aims to predict house prices using machine learning techniques. It involves both classification and regression models to provide a comprehensive analysis of house pricing. The goal is to accurately estimate house prices, which can be useful for buyers, sellers, and real estate professionals.
+Some parts of the project are still under development. More advanced feature engineering and hyperparameter tuning are needed to further improve model performance. Contributions and suggestions are welcome!
